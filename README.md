@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Saheed with expertise in Data Science, Machine Learning and AI Engineer.
+I'm Saheed with expertise in Data Science, Machine Learning, and AI Engineer.
 
 I have technical experience and interest in:
 Machine Learning
@@ -11,6 +11,6 @@ Generative AI
 
 
 My Hobbies and interests:
-Coding
-Playing Tennis/Football
+Coding;
+Playing Tennis/Football;
 Research
