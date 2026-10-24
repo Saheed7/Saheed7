@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 <!--
-**Saheed7/Saheed7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Saheed with expertise in Data Science | Machine Learning | AI Engineer
+I have technical experience and interest in:
+Machine Learning
+Deep Learning
+Computer vision
+Natural Language Processing
+MLOps
+Generative AI
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Languages and Tools:
+arduino bash bootstrap css3 docker flask git heroku html5 linux mongodb mysql opencv postman python pytorch scikit_learn tensorflow
+
+My Hobbies and interests:
+Coding
+Playing Tennis/Football
+Research
